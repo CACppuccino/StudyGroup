@@ -10,7 +10,7 @@
 2. text 2  
 3. text 3  
 
-![GoogleImage] (http://www.taste.com.au/recipes/caramello-cake/6a724450-c233-46b0-8ade-4bc79c1ea388)  
+![GoogleImage](http://www.taste.com.au/recipes/caramello-cake/6a724450-c233-46b0-8ade-4bc79c1ea388)  
 
 > *引用的话*  
 
